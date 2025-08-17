@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AssignmentEF02_core
 {
-    internal class Program
+    public class Program
     {
         static void Main()
         {
